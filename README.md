@@ -64,7 +64,7 @@ Me chamo Alan Da Paixão Nonato Santos, tenho 30 anos e sou natural de SP. Atual
     title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/angular-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
