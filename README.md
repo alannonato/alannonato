@@ -2,7 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Alan Da Paixão Nonato Santos, tenho 30 anos e sou natural de SP. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas na SPTECH. Trabalho na área de T.i como Desenvolvedor a 5 anos e tento ao maximo expressar meus conhecimentos através da prohramação para ajudar pessoas!".
+🎯 Desenvolvedor apaixonado por tecnologia, soluções criativas e projetos desafiadores.  
+💻 Trabalho com C#, .NET, Node.js, VBA e automações que facilitam o dia a dia.  
+📊 Gosto de transformar problemas complexos em soluções simples e eficientes.  
+📂 Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos!
+
+🚀 Sempre em busca de aprender mais e compartilhar conhecimento.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alannonato)  
 
 <p align="left">
     </a> 
