@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 🎯 Desenvolvedor apaixonado por tecnologia, soluções criativas e projetos desafiadores.  
-💻 Trabalho com C#, .NET, Node.js, VBA e automações que facilitam o dia a dia.  
+💻 Trabalho com Java, .NET C#, Node.js, Typescript, Javascript, Angular e automações que facilitam o dia a dia.  
 📊 Gosto de transformar problemas complexos em soluções simples e eficientes.  
 📂 Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos!
 
