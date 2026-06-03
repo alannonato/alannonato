@@ -1,13 +1,12 @@
 # 👨🏿‍💻 Alan Nonato
 
-**`Engenheiro de Software | Especialista Java & Spring Boot`**
+**`Engenheiro de Software Júnior/Pleno`**
 
-🎯 Engenheiro de Software focado no desenvolvimento de sistemas robustos, escaláveis e eficientes, com sólida experiência no ecossistema **Java** e **Spring Boot**.
-💻 Especialista na criação de APIs RESTful, arquitetura de microserviços, automações de processos e testes automatizados.
-📊 Ampla vivência no desenvolvimento FullStack utilizando **Java, .NET C#, Node.js** no ecossistema de backend, e **Angular/TypeScript** no frontend.
-📂 Aqui você encontrará projetos estruturados aplicando boas práticas de design (SOLID, Clean Code), padrões de projeto (Design Patterns) e testes de software.
+**Engenheiro de Software focado no ecossistema Java / Spring Boot.**
 
-🚀 Constantemente evoluindo arquiteturas complexas e transformando requisitos de negócio em código limpo e manutenível.
+Gosto de criar APIs modernas, desenhar arquiteturas limpas e estruturar deploys automatizados. Tenho experiência prática em modernizar sistemas antigos, trabalhando com arquiteturas baseadas em eventos (com Kafka e RabbitMQ) e garantir que tudo rode com boas práticas de monitoramento e observabilidade.
+
+Por aqui, você vai encontrar projetos estruturados com padrões de mercado (SOLID, Clean Architecture), código limpo e testes automatizados.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alannonato" target="_blank">
@@ -23,48 +22,68 @@
 
 ---
 
-### 🛠️ Stack Tecnológica & Competências
+### 🛠️ **`Stack Tecnológica`**
 
-#### 🌟 Main Focus (Backend & Arquitetura)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate/JPA](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET C#](https://img.shields.io/badge/.NET%20C%23-black?style=for-the-badge&logo=dotnet&logoColor=white)
+#### (Backend & Engenharia de Software)
+*   ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
+*   **Design & Comunicação de APIs:** Modelagem REST estruturada por Níveis de Maturidade, comunicação gRPC de alta performance para comunicação interna entre microsserviços e gerenciamento inteligente via API Gateway.
+*   **Padrões Arquiteturais:** Implementação e isolamento usando Arquitetura Hexagonal, Clean Architecture, MVC estruturado e estratégias de isolamento de dados com Multi-Tenancy.
+*   **Domain-Driven Design & Mensageria:** Modelagem estratégica baseada em DDD, arquitetura baseada em eventos e desacoplamento com brokers de mensageria escaláveis como Apache Kafka e RabbitMQ.
+*   **Modernização de Sistemas:** Análise técnica de sistemas legados e monólitos com foco em refatoração, evolução estrutural e estratégias de decomposição para microsserviços e monólitos modulares.
+*   **Segurança e Governança:** Autenticação e autorização robustas via Tokens JWT, ACL, RBAC, federação de identidade com Keycloak (OAuth2/OIDC) e proteção de segredos/variáveis sensíveis.
+*   **Qualidade de Código:** Aplicação pragmática de princípios SOLID e Design Patterns clássicos da Gang of Four (GoF) para a resolução de problemas complexos de software.
 
-#### 🧪 Testes & Qualidade de Código (Essencial para Pleno)
-![JUnit/Jasmine](https://img.shields.io/badge/Jasmine%20%2F%20JUnit-black?style=flat&logo=jasmine)
-![Jest](https://img.shields.io/badge/Jest-black?style=flat&logo=jest)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube)
-
-#### 🗄️ SGBD & Persistência de Dados
+#### 🗄️ Bancos de Dados & Persistência (SQL & NoSQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
-![SQL Server (MSSQL)](https://img.shields.io/badge/SQL%20Server-black?style=flat&logo=microsoftsqlserver)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis)
+*   Modelagem de dados estruturada, otimização de consultas relacionais em ambientes complexos e estratégias de caching distribuído em memória com Redis.
 
-#### 🌐 Frontend & Mobile (Apoio FullStack)
+#### ⚙️ DevOps, GitOps & Infraestrutura como Código (IaC)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-aws) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-black?style=flat&logo=azuredevops)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)
+![Helm](https://img.shields.io/badge/Helm-black?style=flat&logo=helm)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-black?style=flat&logo=argocd)
+*   Gerenciamento e isolamento com Docker (ambientes de desenvolvimento à produção).
+*   Orquestração de microsserviços com Kubernetes utilizando pacotes Helm e automação de infraestrutura via Terraform.
+*   Cultura de Pipelines CI/CD contínuos e implantação contínua automatizada sob o modelo GitOps com ArgoCD.
+*   Técnicas avançadas de Git/GitHub e entrega/deploy contínuo de APIs Java/Spring Boot nas principais Cloud Providers.
+
+#### 📈 SRE, Observabilidade & Segurança (DevSecOps)
+![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=grafana)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-black?style=flat&logo=opentelemetry)
+*   Cultura e engenharia de confiabilidade (Site Reliability Engineering - SRE) focada na estabilidade e saúde de sistemas críticos.
+*   Implementação de telemetria nativa com OpenTelemetry, coleta de métricas com Prometheus e visualização de dashboards analíticos via Grafana.
+*   Práticas integradas de DevSecOps aplicadas diretamente no ciclo de vida de esteiras de build e deploy.
+
+#### 🧪 Testes Automatizados & Qualidade de Software
+![Testcontainers](https://img.shields.io/badge/Testcontainers-black?style=flat&logo=testcontainers)
+![JUnit5](https://img.shields.io/badge/JUnit5-black?style=flat&logo=junit5)
+![Mockito](https://img.shields.io/badge/Mockito-black?style=flat&logo=openjdk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube)
+*   Desenvolvimento orientado a testes com forte adoção da cultura TDD (Test-Driven Development).
+*   Criação de ambientes de teste dinâmicos, isolados e precisos integrando microsserviços e dependências reais.
+
+#### 🌐 Tecnologias Secundárias & IA
+![React](https://img.shields.io/badge/React.js-black?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Ionic](https://img.shields.io/badge/Ionic-black?style=flat&logo=ionic)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
-
-#### ⚙️ DevOps, Infraestrutura & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=jira)
-![Trello](https://img.shields.io/badge/Trello-black?style=flat&logo=trello)
-![Postman/Insomnia](https://img.shields.io/badge/Postman%20%2F%20Insomnia-black?style=flat&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visualstudiocode)
+![ADVPL](https://img.shields.io/badge/ADVPL-black?style=flat)
+![tlpp](https://img.shields.io/badge/tlpp-black?style=flat)
+![PO UI](https://img.shields.io/badge/PO%20UI-black?style=flat)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannonato&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannonato&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=alannonato&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alannonato&theme=dark" alt="Dias seguidos de commit" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=alannonato&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
 </p>
