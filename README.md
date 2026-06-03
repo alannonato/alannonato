@@ -1,62 +1,70 @@
 # 👨🏿‍💻 Alan Nonato
 
-**`Desenvolvedor FullStack`**
+**`Engenheiro de Software | Especialista Java & Spring Boot`**
 
-🎯 Desenvolvedor apaixonado por tecnologia, soluções criativas e projetos desafiadores.  
-💻 Trabalho com Java, .NET C#, Node.js, Typescript, Javascript, Angular e automações que facilitam o dia a dia.  
-📊 Gosto de transformar problemas complexos em soluções simples e eficientes.  
-📂 Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos!
+🎯 Engenheiro de Software focado no desenvolvimento de sistemas robustos, escaláveis e eficientes, com sólida experiência no ecossistema **Java** e **Spring Boot**.
+💻 Especialista na criação de APIs RESTful, arquitetura de microserviços, automações de processos e testes automatizados.
+📊 Ampla vivência no desenvolvimento FullStack utilizando **Java, .NET C#, Node.js** no ecossistema de backend, e **Angular/TypeScript** no frontend.
+📂 Aqui você encontrará projetos estruturados aplicando boas práticas de design (SOLID, Clean Code), padrões de projeto (Design Patterns) e testes de software.
 
-🚀 Sempre em busca de aprender mais e compartilhar conhecimento.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alannonato)  
+🚀 Constantemente evoluindo arquiteturas complexas e transformando requisitos de negócio em código limpo e manutenível.
 
 <p align="left">
-    </a> 
-    <a href="https://github.com/alannonato?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/alannonato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/alannonato?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alannonato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/alannonato" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/alannonato?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alannonato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  </a>
+  <a href="https://github.com/alannonato?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/alannonato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Stack Tecnológica & Competências
 
-**Linguagens**
+#### 🌟 Main Focus (Backend & Arquitetura)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate/JPA](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET C#](https://img.shields.io/badge/.NET%20C%23-black?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![HTML](https://img.shields.io/badge/html-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript) ![Java](https://img.shields.io/badge/java-black?logo=openjdk)
+#### 🧪 Testes & Qualidade de Código (Essencial para Pleno)
+![JUnit/Jasmine](https://img.shields.io/badge/Jasmine%20%2F%20JUnit-black?style=flat&logo=jasmine)
+![Jest](https://img.shields.io/badge/Jest-black?style=flat&logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube)
 
-**_Frameworks_**
+#### 🗄️ SGBD & Persistência de Dados
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![SQL Server (MSSQL)](https://img.shields.io/badge/SQL%20Server-black?style=flat&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite)
 
-![Angular](https://img.shields.io/badge/angular-black?logo=angular) ![Ionic](https://img.shields.io/badge/ionic-black?logo=ionic) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-black?logo=springboot) ![Jasmine](https://img.shields.io/badge/jasmine-black?logo=jasmine) ![Cypress](https://img.shields.io/badge/cypress-black?logo=cypress) ![Jest](https://img.shields.io/badge/jest-black?logo=jest)
+#### 🌐 Frontend & Mobile (Apoio FullStack)
+![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Ionic](https://img.shields.io/badge/Ionic-black?style=flat&logo=ionic)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 
-**Ferramentas de Desenvolvimento**
+#### ⚙️ DevOps, Infraestrutura & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-black?style=flat&logo=trello)
+![Postman/Insomnia](https://img.shields.io/badge/Postman%20%2F%20Insomnia-black?style=flat&logo=postman)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visualstudiocode)
 
-![Android Studio](https://img.shields.io/badge/android%20studio-black?logo=androidstudio) ![X-code](https://img.shields.io/badge/xcode-black?logo=xcode) ![Insominia](https://img.shields.io/badge/insomnia-black?logo=insomnia) ![Postman](https://img.shields.io/badge/postman-black?logo=postman) ![NodeJs](https://img.shields.io/badge/nodejs-black?logo=nodedotjs) ![Git](https://img.shields.io/badge/git-black?logo=git) ![Visual Studio Code](https://tinyurl.com/522mxb6t) ![Eclipse](https://img.shields.io/badge/eclipse-black?logo=eclipse) ![Intellij](https://img.shields.io/badge/intellij-black?logo=intellij-idea)
+---
 
-**DevOps**
+### 📊 Estatísticas do GitHub
 
-![Jira](https://img.shields.io/badge/jira-black?logo=jira) ![Trello](https://img.shields.io/badge/trello-black?logo=trello) ![Docker](https://img.shields.io/badge/docker-black?logo=docker) ![SonarQube](https://img.shields.io/badge/sonarqube-black?logo=sonarqube)
-
-**_UI_ e _UX_**
-
-![Figma](https://img.shields.io/badge/figma-black?logo=figma) ![Giphy](https://img.shields.io/badge/giphy-black?logo=giphy)
-
-**_SGBD_ e Dados**
-
-![MySQL](https://img.shields.io/badge/msql-black?logo=mysql) ![Sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![MSSQL](https://tinyurl.com/2syy8vt8)
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannonato&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannonato&layout=compact&langs_count=7&theme=dark" />
 </p>
