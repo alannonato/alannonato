@@ -88,5 +88,5 @@ Por aqui, você vai encontrar projetos estruturados com padrões de mercado (SOL
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alannonato&theme=tokyonight" alt="Dias seguidos de commit" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alannonato&theme=dark" alt="Dias seguidos de commit" />
 </p>
