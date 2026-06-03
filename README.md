@@ -82,8 +82,8 @@ Por aqui, você vai encontrar projetos estruturados com padrões de mercado (SOL
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannonato&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alannonato&theme=dark" alt="Dias seguidos de commit" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannonato&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=alannonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alannonato&theme=tokyonight" alt="Dias seguidos de commit" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alannonato&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
