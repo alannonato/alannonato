@@ -1,8 +1,8 @@
 # 👨🏿‍💻 Alan Nonato
 
-**`Engenheiro de Software Júnior/Pleno`**
+**`Engenheiro de Software`**
 
-**Engenheiro de Software focado no ecossistema Java / Spring Boot.**
+**Engenheiro de Software focado em Desenvolvimento Backend.**
 
 Gosto de criar APIs modernas, desenhar arquiteturas limpas e estruturar deploys automatizados. Tenho experiência prática em modernizar sistemas antigos, trabalhando com arquiteturas baseadas em eventos (com Kafka e RabbitMQ) e garantir que tudo rode com boas práticas de monitoramento e observabilidade.
 
